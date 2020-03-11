@@ -1,0 +1,72 @@
+body{
+    background-color: #c0c0c0;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 235px;
+    height: 200px;
+}
+
+.flexbox {
+    margin-bottom: 20px;
+    background-color: red;
+    width: 100%;
+    height: 87px;
+    size: 300px;
+    box-shadow: 5px 1px 3px black;
+    padding: 0;
+    
+}
+
+menu {
+    background-color: red;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+h1 {
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+.espacio{
+    display: flex;
+    justify-content: center;
+    margin: 5%;
+    margin-top: 3%;
+}
+
+.caja1{
+    height: 450px;
+    width: 235px;
+    background-color: white;
+    margin-right: 15px;
+}
+.caja2{
+    height: 450px;
+    width: 235px;
+    background-color: white;
+    margin-right: 15px;
+}
+.caja3{
+    height: 450px;
+    width: 235px;
+    background-color: white;
+    margin-right: 15px;
+}
+
+h2{
+    color: red;
+    padding: 4px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 4px 4px 4px 4px;
+    color: grey;
+}
